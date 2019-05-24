@@ -1,5 +1,4 @@
-# Summary
+# Table of contents
 
-* [Introduction](README.md)
-* [Etiquetas inline](etiquetas-inline.md)
+* [Initial page](README.md)
 
